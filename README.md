@@ -2,11 +2,11 @@
 
 **Date:** Monday, Nov 2, 2026 · **Status:** To do · **Problem 09 of 13** — Daily Architect Problems (CCA prep)
 
-Part of *Daily Architect Problems* — thirteen applied agentic-design problems from Claude Certified Architect (CCA) prep, grounded in a real production support-ticket agent. This folder is self-contained: publish it on its own as its own repo.
+Part of *Daily Architect Problems* — thirteen applied agentic-design problems from Claude Certified Architect (CCA) prep, grounded in a real production agent. This folder is self-contained: publish it on its own as its own repo.
 
 ## The problem
 
-The support agent is live, with an in-flow evaluator and outcome measurement just started. Last week two fluent, confident analyses quoted runbooks that had been superseded — and nothing flagged them, because nothing measured that failure. Design the evaluation harness: golden set, metrics, and thresholds that change routing.
+The agent is live, with an in-flow evaluator and outcome measurement just started. Last week two fluent, confident analyses quoted runbooks that had been superseded — and nothing flagged them, because nothing measured that failure. Design the evaluation harness: golden set, metrics, and thresholds that change routing.
 
 ## How to use it
 
