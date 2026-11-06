@@ -23,3 +23,8 @@ The agent is live, with an in-flow evaluator and outcome measurement just starte
 
 - `problem.md` — the full problem statement (scenario, task, self-check)
 - `09_eval_harness.py` — runnable example sketch
+
+## References
+
+- Huyen, Chip. *AI Engineering: Building Applications with Foundation Models*. O'Reilly, 2025. — the eval chapters behind this problem's measurement track.
+- Gullí, Antonio. *Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems*. Springer, 2025. https://link.springer.com/book/10.1007/978-3-032-01402-3 — the evaluation pattern in this series.
