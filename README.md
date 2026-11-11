@@ -1,8 +1,8 @@
 # Evaluating a support-ticket agent in production: eval harness, failure-mode taxonomy, and thresholds that change routing
 
-**Date:** Monday, Nov 2, 2026 · **Status:** To do · **Problem 09 of 13** — Daily Architect Problems (CCA prep)
+**Date:** Monday, Nov 2, 2026 · **Status:** To do · **Problem 09 of 13** — Daily Architect Problems
 
-Part of *Daily Architect Problems* — thirteen applied agentic-design problems from Claude Certified Architect (CCA) prep, grounded in a real production agent. This folder is self-contained: publish it on its own as its own repo.
+Part of *Daily Architect Problems* — thirteen applied agentic-design problems grounded in a real production agent. This folder is self-contained: publish it on its own as its own repo.
 
 ## The problem
 
